@@ -14,3 +14,6 @@ if __name__ == "__main__":
         print(f"Found {target} at index {idx}")
     else:
         print(f"{target} not found")
+b=100
+a=20
+print(a**b)
