@@ -33,3 +33,6 @@ if __name__ == "__main__":
     target = 6
     print(f"Iterative: index of {target} = {binary_search(data, target)}")
     print(f"Recursive: index of {target} = {binary_search_recursive(data, target)}")
+a=10
+b=100
+print(a+b)
